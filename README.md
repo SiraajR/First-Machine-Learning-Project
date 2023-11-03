@@ -1,4 +1,4 @@
-# First-Machine-Learning-Project
+# Intro Machine-Learning-Projects
 
 ## Handwritten Digit Recognition with TensorFlow
 
@@ -28,4 +28,4 @@ You can run this code in a Jupyter Notebook or any Python environment that suppo
 
 Feel free to modify and extend the code for your own projects and experiments.
 
-Author: [Your Name]
+
