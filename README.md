@@ -1,4 +1,5 @@
 # Intro Machine-Learning-Projects
+All the models were written in a Colab notebook, so some lines might not be useful if one runs the code in a designated environment on their machine. 
 
 ## Project 1 Handwritten Digit Recognition with TensorFlow
 
